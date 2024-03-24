@@ -1,6 +1,4 @@
-# AI_lab
-
-# Movie recommender and 
+# Movie recommender and Cardiovascular disease predicter
 
 Welcome to the AI_lab! In this lab, we explore the fascinating world of Artificial Intelligence and its applications.
 
